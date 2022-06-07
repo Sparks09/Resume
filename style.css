@@ -1,0 +1,118 @@
+body {
+  background-color: aquamarine;
+  margin: 0px;
+  padding: 0;
+  text-align: center;
+}
+header {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+header {
+  height: 25vh;
+}
+.header {
+  height: 20vh;
+  padding-top: 20px;
+}
+.zuri {
+  margin: 25px;
+  height: 80px;
+  width: 80px;
+  padding-bottom: 0px;
+  border-top-width: 0px;
+  margin: 0px 0px;
+  position: relative;
+  margin-left: 0px;
+}
+.profile {
+  display: block;
+  width: 30%;
+  position: relative;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.Hi {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: cornflowerblue;
+  font-size: 3em;
+}
+.myself {
+  text-align: center;
+  color: green;
+  height: 150px;
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.skills {
+  color: cornflowerblue;
+  font-family: sans-serif;
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.skills_gif{
+    width: 25%;
+    float: left;
+    padding-left: 50px;
+  }
+  .sk{
+    color: red;
+    font-family: 'Times New Roman', Times, serif
+  }
+  .use_1{
+    color: green;
+    text-align-last: left;
+    font-size: 1rem;
+    margin-left: 500px;
+  }
+  .SK{
+    color: red;
+    font-family: 'Times New Roman', Times, serif
+  }
+  .use_2{
+    color: green;
+    text-align-last: left;
+    font-size: 1rem;
+    margin-left: 500px;
+  }
+  .pi {
+    color: cornflowerblue;
+    font-family: sans-serif;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+    .pri{
+      color: red;
+      font-family: 'Times New Roman', Times, serif
+    }
+    .use_3{
+      color: green;
+      text-align-last: left;
+      font-size: 1rem;
+      margin-left: 500px;
+    }
+    .ho {
+      color: cornflowerblue;
+      font-family: sans-serif;
+      display: inline-block;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+      .hob{
+        color: red;
+        font-family: 'Times New Roman', Times, serif
+      }
+      .use_4{
+        color: green;
+        text-align-last: left;
+        font-size: 1rem;
+        margin-left: 500px;
+      }
+    
